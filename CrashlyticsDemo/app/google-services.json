@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028834853580",
+    "project_id": "fir-5ab19",
+    "storage_bucket": "fir-5ab19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028834853580:android:c58ce104e29fe4d6d8b869",
+        "android_client_info": {
+          "package_name": "com.izrum.crashlyticsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028834853580-gnn1730r87daubn3stobr3ti2ctpkur1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZwoPyQoy3gd0WBZrCXaBD4h8wI7QC28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028834853580-gnn1730r87daubn3stobr3ti2ctpkur1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
